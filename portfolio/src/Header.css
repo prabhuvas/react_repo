@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.Header-nav {
+    justify-content: center;
+    display: flex;
+}
+
+.Header-brand a{
+    margin-right: 500px;
+    text-decoration: none;
+}
+
+.Header-nav div ul {
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+
+.Header-nav div ul li {
+    margin-left: 20%;
+}
+
+.Header-nav div ul li a {
+    text-decoration: none;
+    color: black;
+}
